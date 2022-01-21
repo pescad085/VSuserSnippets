@@ -1,0 +1,33 @@
+{
+
+	  "helloWorld": {
+	  	"scope": "html",
+	  	"prefix": "ph",
+	  	"body": [
+	  		"<h1>Hello World</h1>"
+	
+	  	],
+	  	"description": "H1 hello WOrld"
+	  },
+	  
+	  "All HTML": {
+		"scope": "html",
+		"prefix":  "ALL HTML",
+		"body": [
+			"<!doctype html>",
+			"<html>",
+			"<head>",
+            "<body>",
+			"     ",
+
+			"     ",
+			"<script>",
+			" </script>",
+			"</body>",
+			"html"
+  
+		],
+		"description": "Full HTML PAGE"
+	}
+
+}
